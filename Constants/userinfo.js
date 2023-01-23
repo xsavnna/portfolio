@@ -19,13 +19,8 @@ export const userinfo = {
     greeting: {
         //this text goes on your landing page
         title: "Hey there, I am Sabali.",
-        subtitle: `I'm a full-stack developer with experience in traditional web app development,
-        I'm well-versed in developing decentralized applications (dApps) having a solid understanding of
-         smart contract development.With over 3 years of experience in the field, 
-         I have strong understanding of web technlogies and technical aspects of blockchain technology with a deep interest in its potential to revolutionize the financial industry.
-         In my free time, I like to stay up-to-date with the latest developments in the crypto and Bitcoin space I'm always on the lookout for new and exciting projects. I'm is also an avid believer in the power of blockchain technology to create a more decentralized and equitable world.
-
-         If you are looking for a fullstack developer who is not only skilled but also passionate about blockchain and crypto, Sabali is the perfect candidate for the job.
+        subtitle: `
+I'm a full stack web developer.
 
 
 
