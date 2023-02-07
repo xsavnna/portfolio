@@ -78,7 +78,7 @@ I'm a full stack web developer.
         visible: true, //set this to false if you want to omit this section
         experienceList: [
             {
-                company: 'Vault industria', //company name eg.Microsoft
+                company: 'Lifestyle Polo', //company name eg.Microsoft
                 //companylogo: 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/why-did-steve-carell-leave-the-office-1585597666.jpg?crop=0.563xw:0.844xh;0.287xw,0.128xh&resize=480:*', //companylogo
                 position: 'Full Stack Engineer', //post you held eg.Senior SDE
                 time: 'June 2022 - Jan 2023', //timespan
